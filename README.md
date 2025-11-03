@@ -10,4 +10,3 @@ This project implements basic matrix operations and a **custom Gaussian eliminat
 - Determinant and inverse calculation
 - Gaussian elimination to solve linear systems
 - Benchmarking against NumPy's `linalg.solve`
-- CV-ready performance plots
